@@ -3,5 +3,4 @@ module "create-azure-rg" {
 
     name = var.name
     location = var.location
-    address_space = var.address_space
 }
